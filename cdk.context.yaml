@@ -2,8 +2,8 @@ app:
   name: MyApp
   components:
     web:
-      sourceRepo: https://github.com/bullhorn/rest-api-example-python.git
-      repoName: mage2-cont
+      sourceRepo: https://github.com/benc-uk/python-demoapp.git
+      repoName: python-demoapp
       deleteImageRepoWithApp: true
       instance:
         cpu: '1 vCPU'
