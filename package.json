@@ -18,6 +18,9 @@
   },
   "dependencies": {
     "@aws-cdk/core": "1.128.0",
+    "@engr-lynx/cdk-forked-codecommit": "^0.125.0",
+    "@engr-lynx/cdk-pipeline-builder": "^0.125.0",
+    "cdk-ecr-deployment": "^0.0.76",
     "source-map-support": "^0.5.16"
   }
 }
